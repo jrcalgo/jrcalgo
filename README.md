@@ -7,7 +7,7 @@ I get a kick out of turning research ideas into fast, testable code — usually 
 ### 🔧 What I Build
 - **Reinforcement- & deep-learning algorithms** — from classic q-learning/policy-gradients to encoder/transformer-based processes
 - **Distributed RL frameworks** for HPC and robotics
-- **Experimental OS Research** ranging from the kernel to interactions with userland
+- **Experimental OS research** ranging from the kernel to interactions with userland
 - **Neurosymbolic SAT engines** that blend logic with learning
 - **Generative UX tools** — e.g., GAN-driven mouse-trajectory synthesis, adaptive song equalizer pipeline, etc.
 - **Computer-vision apps** that leverage CV models for real-time use
