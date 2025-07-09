@@ -2,7 +2,7 @@
 
 ## Hey, I’m Jackson 👋
 
-AI systems engineer in the making. I get a kick out of turning research ideas into fast, testable code — usually with **Rust** or **C/C++** for performance and **Python** for experimentation/flexibility.
+I get a kick out of turning research ideas into fast, testable code — usually with **Rust** or **C/C++** for performance and **Python** for experimentation/flexibility.
 
 ### 🔧 What I Build
 - **Reinforcement- & deep-learning algorithms** — from classic q-learning/policy-gradients to encoder/transformer-based processes
