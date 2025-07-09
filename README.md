@@ -12,13 +12,5 @@ I get a kick out of turning research ideas into fast, testable code — usually 
 - **Generative UX tools** — e.g., GAN-driven mouse-trajectory synthesis, adaptive song equalizer pipeline, etc.
 - **Computer-vision apps** that leverage CV models for real-time use
 
-### 🌟 Featured Projects
-| Project | Summary | Tech |
-| ------- | ------- | ---- |
-| **RelayRL** | Prototype, single-agent distributed RL pipeline with a Rust backend and Python bindings. | Rust · PyTorch · gRPC/ZeroMQ |
-| **KnowleJ** | Propositional-logic SAT engine with Neo4j storage, building towards hybrid symbolic-ML integration. | Java · Kotlin · Python · Neo4j |
-| **Chess CV** | Webcam chessboard detector that plays Stockfish in real time. | Python · YOLOv11 · Pygame |
-| **Gen Mouse Trajectories** | GANs that mimic human cursor paths for UX and automation. | Rust · Python · GAN |
-
 ### 🤝 Let’s Connect
 [LinkedIn](https://www.linkedin.com/in/jacksonr121/) • open to collaboration and feedback
