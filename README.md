@@ -5,7 +5,7 @@
 AI systems engineer in the making. I get a kick out of turning research ideas into fast, testable code — usually with **Rust** or **C/C++** for performance and **Python** for experimentation/flexibility.
 
 ### 🔧 What I Build
-- **Reinforcement- & deep-learning algorithms** — from classic q-learning/policy-gradients to encoder-based/transformer-based processes
+- **Reinforcement- & deep-learning algorithms** — from classic q-learning/policy-gradients to encoder/transformer-based processes
 - **Distributed RL frameworks** for HPC and robotics
 - **Experimental OS Research** ranging from the kernel to interactions with userland
 - **Neurosymbolic SAT engines** that blend logic with learning
