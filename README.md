@@ -2,7 +2,7 @@
 
 ## Hey, I’m Jackson 👋
 
-I write code, engineer systems, and integrate technology into processes that I care about
+I build AI systems and experiment with infra.
 
 ### 🤝 Let’s Connect
 [LinkedIn](https://www.linkedin.com/in/jacksonr121/) • open to collaboration and feedback
